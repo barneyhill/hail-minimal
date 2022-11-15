@@ -1,7 +1,7 @@
 # hail-minimal
 ## Description
 A minimal DNAnexus applet allowing the execution of Hail python scripts.
-## Usage
+## Features
 Applet startup time is 3 minutes compared to dxjupyterlab-spark-cluster's > 10 minutes. This applet also support's python script files.
 
 ## DNAnexus Instances
